@@ -9,4 +9,4 @@ Wirkung einer staatlich festgesetzten Milchquote auf dem Milchmarkt grafisch:
 
 ![Milchquote](img/milchquote.png)
 
-- Source Code ist in [hier](src/milchquote.py).
+- Source Code ist [hier](src/milchquote.py).
